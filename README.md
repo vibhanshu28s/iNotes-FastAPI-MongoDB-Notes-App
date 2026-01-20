@@ -24,3 +24,5 @@ iNotes is a simple yet powerful web application designed to help users capture t
 * Client Library: PyMongo
 
 * Styling: Bootstrap 5
+
+** Clone the Repo and install requirements.txt
