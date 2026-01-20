@@ -26,3 +26,4 @@ iNotes is a simple yet powerful web application designed to help users capture t
 * Styling: Bootstrap 5
 
 ** Clone the Repo and install requirements.txt
+** Add Mongo Uri in Schema -> db.py
